@@ -1,63 +1,16 @@
 {
   "products": [
     {
-      "language": "",
+      "language": "кыргыз",
       "lesson": "",
       "type": "",
-      "img": "",
+      "image": "https://i.pinimg.com/736x/b3/a6/32/b3a632a5547d22c553075514add449db.jpg",
       "vidio": "",
       "description": "",
+      "task": "",
+      "user": "is@gmail.com",
+      "comments": [],
       "id": 1
-    },
-    {
-      "language": "",
-      "lesson": "матиматика",
-      "type": "",
-      "img": "C:\\fakepath\\WhatsApp Image 2022-03-08 at 11.01.08.jpeg",
-      "vidio": "C:\\fakepath\\Book_stores - Google Chrome 2022-03-05 01-01-06.mp4",
-      "description": "Forty years ago this was considered science fiction. Forty years ago, this read like science fiction. Exploring and expanding the boundaries of the genre, greedily absorbing all sorts of the latest trends, trying on a universal face, bravely ignoring the Cain stamp of the \"genre ghetto\". Now it is perceived as one of the most humane works of modern times, as a novel of piercing psychological power, as a filigree development of the theme of love and responsibility. It is not for nothing that Keyes called the book of memoirs published already in the 1990s \"Algernon, Charlie and Me.\" In our library you can read the book \"Flowers for Algernon\" for free. To read Flowers for Algernon online» go to the given link. Happy reading to you.",
-      "undefined": 0,
-      "id": 2
-    },
-    {
-      "language": "",
-      "lesson": "матиматика",
-      "type": "",
-      "img": "C:\\fakepath\\WhatsApp Image 2022-03-08 at 11.01.08.jpeg",
-      "vidio": "C:\\fakepath\\Book_stores - Google Chrome 2022-03-05 01-01-06.mp4",
-      "description": "Forty years ago this was considered science fiction. Forty years ago, this read like science fiction. Exploring and expanding the boundaries of the genre, greedily absorbing all sorts of the latest trends, trying on a universal face, bravely ignoring the Cain stamp of the \"genre ghetto\". Now it is perceived as one of the most humane works of modern times, as a novel of piercing psychological power, as a filigree development of the theme of love and responsibility. It is not for nothing that Keyes called the book of memoirs published already in the 1990s \"Algernon, Charlie and Me.\" In our library you can read the book \"Flowers for Algernon\" for free. To read Flowers for Algernon online» go to the given link. Happy reading to you.",
-      "undefined": 0,
-      "id": 3
-    },
-    {
-      "language": "",
-      "lesson": "матиматика",
-      "type": "",
-      "img": "C:\\fakepath\\WhatsApp Image 2022-03-08 at 11.01.08.jpeg",
-      "vidio": "C:\\fakepath\\Book_stores - Google Chrome 2022-03-05 01-01-06.mp4",
-      "description": "Forty years ago this was considered science fiction. Forty years ago, this read like science fiction. Exploring and expanding the boundaries of the genre, greedily absorbing all sorts of the latest trends, trying on a universal face, bravely ignoring the Cain stamp of the \"genre ghetto\". Now it is perceived as one of the most humane works of modern times, as a novel of piercing psychological power, as a filigree development of the theme of love and responsibility. It is not for nothing that Keyes called the book of memoirs published already in the 1990s \"Algernon, Charlie and Me.\" In our library you can read the book \"Flowers for Algernon\" for free. To read Flowers for Algernon online» go to the given link. Happy reading to you.",
-      "undefined": 0,
-      "id": 4
-    },
-    {
-      "language": "",
-      "lesson": "матиматика",
-      "type": "",
-      "img": "C:\\fakepath\\WhatsApp Image 2022-03-08 at 11.01.08.jpeg",
-      "vidio": "C:\\fakepath\\Book_stores - Google Chrome 2022-03-05 01-01-06.mp4",
-      "description": "Forty years ago this was considered science fiction. Forty years ago, this read like science fiction. Exploring and expanding the boundaries of the genre, greedily absorbing all sorts of the latest trends, trying on a universal face, bravely ignoring the Cain stamp of the \"genre ghetto\". Now it is perceived as one of the most humane works of modern times, as a novel of piercing psychological power, as a filigree development of the theme of love and responsibility. It is not for nothing that Keyes called the book of memoirs published already in the 1990s \"Algernon, Charlie and Me.\" In our library you can read the book \"Flowers for Algernon\" for free. To read Flowers for Algernon online» go to the given link. Happy reading to you.",
-      "undefined": 0,
-      "id": 5
-    },
-    {
-      "language": "",
-      "lesson": "матиматика",
-      "type": "",
-      "img": "C:\\fakepath\\WhatsApp Image 2022-03-08 at 11.01.08.jpeg",
-      "vidio": "C:\\fakepath\\Book_stores - Google Chrome 2022-03-05 01-01-06.mp4",
-      "description": "Forty years ago this was considered science fiction. Forty years ago, this read like science fiction. Exploring and expanding the boundaries of the genre, greedily absorbing all sorts of the latest trends, trying on a universal face, bravely ignoring the Cain stamp of the \"genre ghetto\". Now it is perceived as one of the most humane works of modern times, as a novel of piercing psychological power, as a filigree development of the theme of love and responsibility. It is not for nothing that Keyes called the book of memoirs published already in the 1990s \"Algernon, Charlie and Me.\" In our library you can read the book \"Flowers for Algernon\" for free. To read Flowers for Algernon online» go to the given link. Happy reading to you.",
-      "undefined": 0,
-      "id": 6
     }
   ]
 }
