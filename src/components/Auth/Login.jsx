@@ -109,7 +109,7 @@ export default function Login() {
 
               {hasAccount ? (
                 <Button
-                  type="submit"
+                  type="button"
                   fullWidth
                   variant="contained"
                   sx={
@@ -128,7 +128,7 @@ export default function Login() {
                 </Button>
               ) : (
                 <Button
-                  type="submit"
+                  type="button"
                   fullWidth
                   variant="contained"
                   sx={
