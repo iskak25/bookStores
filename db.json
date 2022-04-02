@@ -11,6 +11,17 @@
       "user": "is@gmail.com",
       "comments": [],
       "id": 1
+    },
+    {
+      "language": "кыргыз",
+      "lesson": "матем",
+      "type": "фото",
+      "image": "https://i.pinimg.com/736x/b3/a6/32/b3a632a5547d22c553075514add449db.jpg",
+      "vidio": "https://youtu.be/HgvIox6ehkM",
+      "description": "vfcds1234567",
+      "task": "1+2+2",
+      "comments": [],
+      "id": 2
     }
   ]
 }
