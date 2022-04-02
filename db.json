@@ -9,7 +9,24 @@
       "description": "",
       "task": "",
       "user": "is@gmail.com",
-      "comments": [],
+      "comments": [
+        {
+          "comment": "sfdsd mnv skdjvksvk",
+          "date": "03.04.2022, 05:16:24"
+        },
+        {
+          "comment": "sfdsd mnv skdjvksvk",
+          "date": "03.04.2022, 05:21:11"
+        },
+        {
+          "comment": "уцацуа",
+          "date": "03.04.2022, 05:21:17"
+        },
+        {
+          "comment": "sfdsd mnv skdjvksvk",
+          "date": "03.04.2022, 05:22:37"
+        }
+      ],
       "id": 1
     },
     {
@@ -22,6 +39,71 @@
       "task": "1+2+2",
       "comments": [],
       "id": 2
+    },
+    {
+      "language": "кыргыз",
+      "lesson": "матем",
+      "type": "фото",
+      "image": "http://www.rosphoto.com/images/u/articles/1510/4_8.jpg",
+      "vidio": "https://youtu.be/HgvIox6ehkM",
+      "description": "asdfgadsfg",
+      "task": "1+2+2+2",
+      "comments": [
+        {
+          "comment": "sfdsd mnv skdjvksvk",
+          "date": "03.04.2022, 05:20:08"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "language": "",
+      "lesson": "",
+      "type": "",
+      "image": "",
+      "vidio": "",
+      "description": "",
+      "task": "",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "language": "",
+      "lesson": "",
+      "type": "",
+      "image": "",
+      "vidio": "",
+      "description": "",
+      "task": "",
+      "comments": [
+        {
+          "comment": "sfdsd mnv skdjvksvk",
+          "date": "03.04.2022, 05:23:37"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "language": "",
+      "lesson": "",
+      "type": "",
+      "image": "",
+      "vidio": "",
+      "description": "",
+      "task": "",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "language": "",
+      "lesson": "",
+      "type": "",
+      "image": "",
+      "vidio": "",
+      "description": "",
+      "task": "",
+      "comments": [],
+      "id": 7
     }
   ]
 }
