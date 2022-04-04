@@ -7,4 +7,4 @@ export const ACTIONS = {
   CHANGE_LIKE_LENGTH: "CHANGE_LIKE_LENGTH",
 };
 
-export const JSON_API_PRODUCTS = "http://localhost:8000/products";
+export const JSON_API_PRODUCTS = "https://jrt-good.herokuapp.com/product";

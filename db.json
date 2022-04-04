@@ -55,55 +55,6 @@
         }
       ],
       "id": 3
-    },
-    {
-      "language": "",
-      "lesson": "",
-      "type": "",
-      "image": "",
-      "vidio": "",
-      "description": "",
-      "task": "",
-      "comments": [],
-      "id": 4
-    },
-    {
-      "language": "",
-      "lesson": "",
-      "type": "",
-      "image": "",
-      "vidio": "",
-      "description": "",
-      "task": "",
-      "comments": [
-        {
-          "comment": "sfdsd mnv skdjvksvk",
-          "date": "03.04.2022, 05:23:37"
-        }
-      ],
-      "id": 5
-    },
-    {
-      "language": "",
-      "lesson": "",
-      "type": "",
-      "image": "",
-      "vidio": "",
-      "description": "",
-      "task": "",
-      "comments": [],
-      "id": 6
-    },
-    {
-      "language": "",
-      "lesson": "",
-      "type": "",
-      "image": "",
-      "vidio": "",
-      "description": "",
-      "task": "",
-      "comments": [],
-      "id": 7
     }
   ]
 }
